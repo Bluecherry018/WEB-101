@@ -1,6 +1,6 @@
 # HTML: Essentials
 
- - First HTML Page
+ - First HTML Page (chickens.html)
  - Paragraph Elements
  - Heading Elements
  - HTML Boilerplate
